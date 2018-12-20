@@ -7,41 +7,41 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Xiaohong Deng
+    tagline:
+    avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email:
+    phone:
+    website: shawnsden.ga #do not add http://
+    linkedin: Xiaohong-Deng
+    github: Xiaohong-Deng
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@wudongnoodles'
+    stack-overflow: 1959884/xiaohong-deng # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Chinese
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom:
+        level:
 
     interests:
-      - item: Climbing
+      - item:
         link:
 
-      - item: Snowboarding
+      - item:
         link:
 
-      - item: Cooking
+      - item:
         link:
 
 career-profile:
@@ -56,18 +56,17 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Self-Driving Car Engineer Nanodegree
+      university: Udacity
+      time: 2017 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Essential techniques and skill for building self-driving car
 
-          - Bullet point
-          - Bullet point
+          1. perception through computer vision
+          2. sensor fusion, object tracking.
+          3. path planning
+          4. motion control.
+          5. system integration.
 
     - degree: BSc in Applied Mathematics
       university: Bristol University
@@ -83,39 +82,28 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Ruby on Rails Developer
+      time: 2017 - Present
+      company: Crowdbotics, Berkeley
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        My job is to help clients achieve their business goals by solving various
+        software problems using my programming skills, mostly in Ruby on Rails.
 
-          - Bullet point
-          - Bullet point
+          - Add a feature to a Rails app that can randomly fetch desired records at demand
+            from database.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Ruby on Rails Developer
+      time: 2017 - present
+      company: Agile Ventures, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        I contribute to various open source projects hosted at Agile Ventures.
 
-          - Bullet point
-          - Bullet point
+          - Local Support
+          - Website One
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Software Developer
+      time: 2017 June - 2017 October
+      company: Mooqita, Berkeley
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
